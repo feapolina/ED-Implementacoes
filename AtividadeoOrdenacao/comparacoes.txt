@@ -1,0 +1,36 @@
+As instâncias 100000 não puderam ser analisadas pois acredito que minha máquina não aguentou o rojão, ainda mais em python. kkkkkkkk
+
+------------ Instancias 1000 --------------------------
+insertion sort para a instancia '1000.1': 0.08 segundos
+selection sort para a instancia '1000.1': 0.10 segundos
+
+insertion sort para a instancia '1000.2': 0.08 segundos
+selection sort para a instancia '1000.2': 0.08 segundos
+
+insertion sort para a instancia '1000.3': 0.08 segundos
+selection sort para a instancia '1000.3': 0.08 segundos
+
+insertion sort para a instancia '1000.4': 0.09 segundos
+selection sort para a instancia '1000.4': 0.09 segundos
+
+Média de tempo de execução: 
+    Insertion Sort = 0.0825 segundos 
+    Selection Sort = 0.0875 segundos
+
+------------ Instancias 10000 --------------------------
+
+insertion sort para a instancia '10000.1': 8.67 segundos
+selection sort para a instancia '10000.1': 8.34 segundos
+
+insertion sort para a instancia '10000.2': 8.51 segundos
+selection sort para a instancia '10000.2': 8.62 segundos
+
+insertion sort para a instancia '10000.3': 8.60 segundos
+selection sort para a instancia '10000.3': 8.68 segundos
+
+insertion sort para a instancia '10000.4': 8.76 segundos
+selection sort para a instancia '10000.4': 9.29 segundos
+
+Média de tempo de execução: 
+    Insertion Sort = 8.635 segundos 
+    Selection Sort = 8.7325 segundos
