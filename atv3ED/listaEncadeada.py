@@ -1,4 +1,4 @@
-# Aluno: Felipe Cavalcanti Apolinario (20220070841)
+# Aluno: Felipe Cavalcanti Apolinario 
 # Essa foi a minha terceira interação com python então muita coisa deve ter sido feita de um jeito meio ruim...
 # Espero que tenha atingido o objetivo da atividade. Em comparação com a última atividade, essa foi bem mais complexa, na minha opinião
 
